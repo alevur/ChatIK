@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "840308761844",
+    "firebase_url": "https://chatik-8df68.firebaseio.com",
+    "project_id": "chatik-8df68",
+    "storage_bucket": "chatik-8df68.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840308761844:android:71b5ad94f914bc2cac6aa1",
+        "android_client_info": {
+          "package_name": "com.example.chatik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840308761844-pgt1vl5c0vrh0bm48kh355ds609uc1l6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatik",
+            "certificate_hash": "4985f90c6a46031f6de2181219cb1c16e7ea8f5b"
+          }
+        },
+        {
+          "client_id": "840308761844-e2rvvkqtkblcgklj84brgu51ur700ggd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5e-lxMA9xQ2oubC9xRcGTKU_zhVCNRc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "840308761844-e2rvvkqtkblcgklj84brgu51ur700ggd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
